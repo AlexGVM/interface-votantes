@@ -14,7 +14,7 @@ namespace Interface_de_votantes.Controllers
         Storage Temp = Storage.GetInstance();
         DateTime thisDay = DateTime.Today;
 
-        public IActionResult Index(string dpi, int depto, int presi, int alcalde, int boletadiputadodistrito, int boletadiputadonacional)
+        public IActionResult Index(string dpi, int depto, int presi, int alcalde, int boletadiputadodistrito, int boletadiputadonacional, string jclock1)
         {
             ViewBag.FechaAlta = new DateTime(2008, 12, 10);
 
@@ -30,7 +30,7 @@ namespace Interface_de_votantes.Controllers
                     boleta_alcalde = alcalde,
                     boleta_diputados_distrito = boletadiputadodistrito,
                     boleta_diputado_nacional = boletadiputadonacional,
-                    fecha_hora = thisDay.ToString()
+                    fecha_hora = jclock1
                 });
             return View("Index", Temp);
             }
