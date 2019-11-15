@@ -54,3 +54,22 @@ body {
   height: 60px;
   line-height: 60px; /* Vertically center the text there */
 }
+
+.col-md-8{
+  float: left;
+  width: 45%;
+}
+
+.form-group,
+h2{
+  margin: 20px;
+  text-align: center;
+}
+
+.col-md-8{
+  padding: 5% 0;
+}
+.column{
+  padding: 10% 0;
+}
+

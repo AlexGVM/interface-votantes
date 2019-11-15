@@ -13,11 +13,14 @@
       $('#jclock1').jclock(options1);
     });
   </script>
+
 @if (Model != null)
 {
-    <div class="container">
-        <div class="col-md-8">
-            <div class="row">
+<body>
+<div class="container" style="padding: 2%;">      
+    <div class="row">
+       <div class="col-md-6">
+           <div class="row">
                 <div class="form-group">
                     <h2>Ingreso de Votaciones</h2>
                     <form action="/Home/Index" method="post">
@@ -93,21 +96,24 @@
                     </form>
                 </div>
             </div>
-        </div>
-        <div class="col-md-8 column" >
-            <row>
-            <p>Un sistema de votación es una forma de elegir entre varias opciones basado en la decisión de los votantes.
-            El acto de votar tiene su uso más conocido en las elecciones políticas, en las que se elige de entre los candidatos a cargos públicos. 
-            Las votaciones pueden emplearse también para conceder premios, elegir entre diferentes planes de acción o, mediante un programa informático, 
-            determinar la solución a problemas complejos.</p>
-            <p>Un sistema de votación consiste en las reglas que rigen cómo pueden expresar sus deseos los 
-            votantes y como se agregan estos deseos para llegar a un resultado final. El campo que estudia los sistemas de votación se llama teoría de 
-            votaciones, un subcampo de las ciencias políticas y las matemáticas. La teoría de votaciones empezó a desarrollarse en el siglo 18 y
-            ha producido muchas propuestas de sistemas de votación.</p>
-            <p>La regla de la mayoría dice que si más de la mitad de los votantes se decantan 
-            por una de las opciones, ésta debe ser el resultado único de la elección. Éste se puede considerar como el sistema de votación más sencillo. 
-            Pero muchas votaciones requieren reglas más complejas, especialmente si hay más de dos resultados posibles.</p>
-            </row>
-        </div>
-    </div>
+       </div>
+       <div class="col-md-6">
+            <div style="padding: 10%;">
+                <row style="text-align: left;">
+                <p>Un sistema de votación es una forma de elegir entre varias opciones basado en la decisión de los votantes.
+                El acto de votar tiene su uso más conocido en las elecciones políticas, en las que se elige de entre los candidatos a cargos públicos. 
+                Las votaciones pueden emplearse también para conceder premios, elegir entre diferentes planes de acción o, mediante un programa informático, 
+                determinar la solución a problemas complejos.</p>
+                <p>Un sistema de votación consiste en las reglas que rigen cómo pueden expresar sus deseos los 
+                votantes y como se agregan estos deseos para llegar a un resultado final. El campo que estudia los sistemas de votación se llama teoría de 
+                votaciones, un subcampo de las ciencias políticas y las matemáticas. La teoría de votaciones empezó a desarrollarse en el siglo 18 y
+                ha producido muchas propuestas de sistemas de votación.</p>
+                <p>La regla de la mayoría dice que si más de la mitad de los votantes se decantan 
+                por una de las opciones, ésta debe ser el resultado único de la elección. Éste se puede considerar como el sistema de votación más sencillo. 
+                Pero muchas votaciones requieren reglas más complejas, especialmente si hay más de dos resultados posibles.</p>
+                </row>
+            </div>
+       </div>
+     </div>
+</body>
 }

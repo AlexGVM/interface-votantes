@@ -55,14 +55,18 @@ body {
   line-height: 60px; /* Vertically center the text there */
 }
 
-.col-md-8{
-  float: left;
-  width: 45%;
+body{
+  width: 100%;
 }
 
-.form-group,
-h2{
-  margin: 20px;
+[class*="col-"] {
+  width: 50%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+.col-md-6 div {
   text-align: center;
 }
 
@@ -70,6 +74,13 @@ h2{
   padding: 5% 0;
 }
 .column{
-  padding: 10% 0;
+  padding: 5% 0;
 }
+
+.form-group{
+  margin: 0% auto;
+  padding: 2.5% 0;
+}
+
+
 
