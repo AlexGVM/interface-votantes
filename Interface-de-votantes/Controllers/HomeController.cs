@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Interface_de_votantes.Models;
 using Interface_de_votantes.Services;
+using Interface_de_votantes.Digital_singning;
 
 namespace Interface_de_votantes.Controllers
 {
@@ -32,7 +33,8 @@ namespace Interface_de_votantes.Controllers
                     boleta_diputado_nacional = boletadiputadonacional,
                     fecha_hora = jclock1
                 });
-            return View("Index", Temp);
+                var Firma = Digital_signing.Instance.Generar_llaves(dpi);
+                return View("Index", Temp);
             }
         }
 

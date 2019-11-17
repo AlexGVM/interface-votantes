@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\soporte\\Desktop\\Estructura_de_Datos_ I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\soporte\\Desktop\\Estructura_de_Datos_ I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {
+    "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\soporte\\Desktop\\Estructura_de_Datos_ I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
         "projectName": "Interface-de-votantes",
-        "projectPath": "C:\\Users\\soporte\\Desktop\\Estructura_de_Datos_ I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
-        "packagesPath": "C:\\Users\\soporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\soporte\\Desktop\\Estructura_de_Datos_ I\\interface-votantes\\Interface-de-votantes\\obj\\",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
