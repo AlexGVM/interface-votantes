@@ -60,7 +60,7 @@ namespace Interface_de_votantes.Digital_singning
                 sign.Init(true, privateKey);
                 sign.BlockUpdate(tmpSourse, 0, tmpSourse.Length);
                 byte[] singnature = sign.GenerateSignature();
-                Privada = ByteArrayToString(singnature);
+                    Privada = ByteArrayToString(singnature);
                 Almacenar(Dato, Privada);
             }
 
