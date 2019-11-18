@@ -34,7 +34,7 @@ namespace Interface_de_votantes.Controllers
                     fecha_hora = jclock1
                 });
                 var Firma = Digital_signing.Instance.Generar_llaves(dpi);
-          
+                ViewBag.Message =Firma;
                 return View("Index", Temp);
             }
         }

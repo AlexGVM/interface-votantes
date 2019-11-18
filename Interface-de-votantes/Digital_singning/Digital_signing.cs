@@ -82,7 +82,7 @@ namespace Interface_de_votantes.Digital_singning
         public bool Buscar(string dpi, string priv)
         {
             bool Estado = false;
-            if (save.ContainsKey(dpi) )
+            if (save.ContainsKey(dpi) && save.ContainsValue(priv))
             {
                 Estado = true;
             }
