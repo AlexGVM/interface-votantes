@@ -60,3 +60,35 @@ C:\Users\soporte\Desktop\Estructura_de_Datos_ I\interface-votantes\Interface-de-
 C:\Users\soporte\Desktop\Estructura_de_Datos_ I\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\soporte\Desktop\Estructura_de_Datos_ I\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\soporte\Desktop\Estructura_de_Datos_ I\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\Home\Creditos.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Interface-de-votantes.deps.json
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Interface-de-votantes.runtimeconfig.json
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Interface-de-votantes.runtimeconfig.dev.json
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Interface-de-votantes.dll
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Interface-de-votantes.pdb
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Interface-de-votantes.Views.dll
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\bin\Debug\netcoreapp2.2\Interface-de-votantes.Views.pdb
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.csprojAssemblyReference.cache
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.RazorAssemblyInfo.cache
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.RazorAssemblyInfo.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.AssemblyInfoInputs.cache
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.AssemblyInfo.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.TagHelpers.input.cache
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.TagHelpers.output.cache
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.RazorCoreGenerate.cache
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\Home\Creditos.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.RazorTargetAssemblyInfo.cache
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.RazorTargetAssemblyInfo.cs
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.Views.pdb
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.dll
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.pdb
+D:\Universidad\Proyectos\PEstucturas\Todo\Proyecto_ED1_2019\Proyecto-ED1\Erick\interface-votantes\Interface-de-votantes\obj\Debug\netcoreapp2.2\Interface-de-votantes.csproj.CopyComplete

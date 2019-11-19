@@ -13,15 +13,57 @@ namespace Interface_de_votantes.Controllers
     public class HomeController : Controller
     {
         Storage Temp = Storage.GetInstance();
-        DateTime thisDay = DateTime.Today;
 
-        public IActionResult Index(string dpi, int depto, int presi, int alcalde, int boletadiputadodistrito, int boletadiputadonacional, string jclock1)
+        DateTime thisDay = DateTime.Today;
+        
+        
+        public bool valido = false;
+        public int Mun;
+        public int Dep;
+        public int todoDPI;
+        public int ID { get; set; }
+        public string Nombre { get; set; }
+        public string Municipio { get; set; }
+
+        public bool Validacion(string dpi)
+        {
+
+            if (dpi.Length == 13)
+            {
+                return valido = true;
+            }
+            else
+            {
+                return valido = false;
+            }
+        }
+        //Extrae todos los datos
+        public void Convertir(string ndpi)
+        {
+            string Dep1;
+            string Mun1;
+            string todoDPI1;
+
+            Dep1 = ndpi.Substring(9, 2);
+            Mun1 = ndpi.Substring(11, 2);
+            todoDPI1 = ndpi.Substring(0, 13);
+
+            Dep = int.Parse(Dep1);
+            Mun = int.Parse(Mun1);
+            todoDPI = int.Parse(todoDPI1);
+        }
+        
+
+
+public IActionResult Index(string dpi, int depto, int presi, int alcalde, int boletadiputadodistrito, int boletadiputadonacional, string jclock1)
         {
             ViewBag.FechaAlta = new DateTime(2008, 12, 10);
 
-            if(dpi == null){ 
+            if (dpi == null){ 
                 return View("Index", Temp);
-            }else{         
+            }
+            else{
+
                 Temp.Listado.Add(new Votantes()
                 {
                     id = Temp.Listado.Count,

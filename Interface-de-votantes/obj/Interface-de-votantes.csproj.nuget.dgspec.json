@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {}
+    "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {
+    "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+        "projectUniqueName": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
         "projectName": "Interface-de-votantes",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\interface-votantes\\Interface-de-votantes\\obj\\",
+        "projectPath": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
