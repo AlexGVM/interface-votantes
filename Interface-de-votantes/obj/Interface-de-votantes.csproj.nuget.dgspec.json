@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {}
+    "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {}
   },
   "projects": {
-    "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {
+    "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+        "projectUniqueName": "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
         "projectName": "Interface-de-votantes",
-        "projectPath": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
-        "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
-        "outputPath": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\obj\\",
+        "projectPath": "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+        "packagesPath": "C:\\Users\\Plaza Pública\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plaza Pública\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

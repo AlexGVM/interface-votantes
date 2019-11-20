@@ -8266,7 +8266,7 @@
       ]
     },
     "runtime.native.System.IO.Compression/4.3.0": {
-      "sha512": "b+V9JC/Ii3sR659flBeaBJww111425tgjcDS1k+hqV4sGh9FALRDBvJnDtQ895gAzpPTUOFDHdqaZ2Et7BpZMg==",
+      "sha512": "INBPonS5QPEgn7naufQFXJEp3zX6L4bwHgJ/ZH78aBTpeNfQMtf7C6VrAFhlq2xxWBveIOWyFzQjJ8XzHMhdOQ==",
       "type": "package",
       "path": "runtime.native.system.io.compression/4.3.0",
       "files": [
@@ -8378,11 +8378,12 @@
       ]
     },
     "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "T5NvFgmHX0WH4c7lP72krsnk+IJI10vJf2j2twGE+5QBRA4RyRAgD+ZjEgdmpLOjW4B+nZGaadewTCUcR899OQ==",
+      "sha512": "nyFNiCk/r+VOiIqreLix8yN+q3Wga9+SE8BCgkf+2BwEKiNx6DyvFjCgkfV743/grxv8jHJ8gUK4XEQw7yzRYg==",
       "type": "package",
       "path": "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -8724,7 +8725,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -13082,23 +13083,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\majoj\\.nuget\\packages\\": {},
+    "C:\\Users\\Plaza Pública\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+      "projectUniqueName": "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
       "projectName": "Interface-de-votantes",
-      "projectPath": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
-      "packagesPath": "C:\\Users\\majoj\\.nuget\\packages\\",
-      "outputPath": "D:\\Universidad\\Proyectos\\PEstucturas\\Todo\\Proyecto_ED1_2019\\Proyecto-ED1\\Erick\\interface-votantes\\Interface-de-votantes\\obj\\",
+      "projectPath": "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\Interface-de-votantes.csproj",
+      "packagesPath": "C:\\Users\\Plaza Pública\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Plaza Pública\\Desktop\\Estructuras de datos I\\interface-votantes\\Interface-de-votantes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\majoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Plaza Pública\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13149,16 +13150,10 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

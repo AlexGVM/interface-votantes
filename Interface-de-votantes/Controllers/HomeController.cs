@@ -55,14 +55,15 @@ namespace Interface_de_votantes.Controllers
         
 
 
-public IActionResult Index(string dpi, int depto, int presi, int alcalde, int boletadiputadodistrito, int boletadiputadonacional, string jclock1)
+public IActionResult Index(int dpiint, int depto, int presi, int alcalde, int boletadiputadodistrito, int boletadiputadonacional, string jclock1)
         {
             ViewBag.FechaAlta = new DateTime(2008, 12, 10);
-
+            string dpi = dpiint.ToString();
             if (dpi == null){ 
                 return View("Index", Temp);
             }
-            else{
+            else if(dpi.Length==13)
+            {
 
                 Temp.Listado.Add(new Votantes()
                 {
@@ -79,6 +80,7 @@ public IActionResult Index(string dpi, int depto, int presi, int alcalde, int bo
                 ViewBag.Message =Firma;
                 return View("Index", Temp);
             }
+            return View("Index", Temp);
         }
 
         public IEnumerable<Votantes> Get()

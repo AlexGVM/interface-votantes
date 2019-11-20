@@ -2,22 +2,30 @@
     ViewData["Title"] = "Home Page";
 }
 @model Interface_de_votantes.Services.Storage
-    <script src="~/js/jquery-1.11.1.min.js" asp-append-version="true"></script>
-    <script src="~/js/jquery.jclock.js" asp-append-version="true"></script>
+<script src="~/js/jquery-1.11.1.min.js" asp-append-version="true"></script>
+<script src="~/js/jquery.jclock.js" asp-append-version="true"></script>
 
-  <script type="text/javascript">
-    $(function($) {
-      var options1 = {
-        format: '%A %B %d, %Y %I:%M:%S %p' // 12-hour
-      }
-      $('#jclock1').jclock(options1);
+<script type="text/javascript">
+    $(function ($) {
+        var options1 = {
+            format: '%A %B %d, %Y %I:%M:%S %p' // 12-hour
+        }
+        $('#jclock1').jclock(options1);
     });
-  </script>
+</script>
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = funciont(){
+            alert("@ViewBag.Message");
+        }; </script>
+}
 
 @if (Model != null)
 {
 <body>
-<div class="container" style="padding: 2%;">      
+<div class="container" style="padding: 2%;">
     <div class="row">
        <div class="col-md-6">
            <div class="row">
@@ -26,7 +34,7 @@
                     <form action="/Home/Index" method="post">
                         <div class="form-group">
                             <label for="numberS">DPI:</label>
-                            <input type="text" name="dpi" />
+                            <input type="number" name="dpi" required />
                         </div>
                         <div class="form-group">
                             <label for="numberS">Departamento:</label>
@@ -101,18 +109,17 @@
             <div style="padding: 10%;">
                 <row style="text-align: left;">
                 <p>Un sistema de votación es una forma de elegir entre varias opciones basado en la decisión de los votantes.
-                El acto de votar tiene su uso más conocido en las elecciones políticas, en las que se elige de entre los candidatos a cargos públicos. 
-                Las votaciones pueden emplearse también para conceder premios, elegir entre diferentes planes de acción o, mediante un programa informático, 
+                El acto de votar tiene su uso más conocido en las elecciones políticas, en las que se elige de entre los candidatos a cargos públicos.
+                Las votaciones pueden emplearse también para conceder premios, elegir entre diferentes planes de acción o, mediante un programa informático,
                 determinar la solución a problemas complejos.</p>
-                <p>Un sistema de votación consiste en las reglas que rigen cómo pueden expresar sus deseos los 
-                votantes y como se agregan estos deseos para llegar a un resultado final. El campo que estudia los sistemas de votación se llama teoría de 
+                <p>Un sistema de votación consiste en las reglas que rigen cómo pueden expresar sus deseos los
+                votantes y como se agregan estos deseos para llegar a un resultado final. El campo que estudia los sistemas de votación se llama teoría de
                 votaciones, un subcampo de las ciencias políticas y las matemáticas. La teoría de votaciones empezó a desarrollarse en el siglo 18 y
                 ha producido muchas propuestas de sistemas de votación.</p>
-                <p>La regla de la mayoría dice que si más de la mitad de los votantes se decantan 
-                por una de las opciones, ésta debe ser el resultado único de la elección. Éste se puede considerar como el sistema de votación más sencillo. 
+                <p>La regla de la mayoría dice que si más de la mitad de los votantes se decantan
+                por una de las opciones, ésta debe ser el resultado único de la elección. Éste se puede considerar como el sistema de votación más sencillo.
                 Pero muchas votaciones requieren reglas más complejas, especialmente si hay más de dos resultados posibles.</p>
                 <br/>
-                <h3>@ViewBag</h3>
                 </row>
             </div>
        </div>
@@ -120,3 +127,4 @@
     </div>
 </body>
 }
+
